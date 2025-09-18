@@ -21,8 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 3D Semantic Segmentation
-  - 3D Semantic Reconstruction
+  - 3D Reconstruction
+  - Generative models
+  - Physical reasoning using 3D GS
+  - Robotics
   #- Robot mapping
 
 #education:
@@ -74,4 +76,6 @@ user_groups:
 
 I am a Postdoctoral Research Associate of the Department of Engineering at the University of Cambridge.
 
-Jing’s MSc research explored the seismic Performance of skew bridges considering the effects of pounding. During this time, developed a new interest in deep learning applications in bridge engineering and maintenance. His DPhil (co-supervised by Dr. Brian Sheil; primary supervisor was Professor Sinan Acikgoz) will be exploring the application of deep learning techniques to assist bridge geometry generation and displacement and strain monitoring.
+My research lies at the intersection of 3D computer vision and robotics. I am particularly interested in advancing 3D reconstruction methods such as NeRF, 3DGS, and extending 3DGS for physical reasoning, i.e., enabling LLMs to understand and reason about complex 3D environments.
+
+I also explore generative models including diffusion models, score-based approaches, flow-matching methods, and Schrodinger Bridge with the aim of integrating them into robotic manipulation systems. Ultimately, my goal is to build generalizable robots that can adapt flexibly to diverse and dynamic scenes.

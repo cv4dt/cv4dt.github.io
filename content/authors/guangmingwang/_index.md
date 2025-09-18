@@ -18,12 +18,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 3D computer vision and robotics. I am particularly interested in robot world model and robot munipulation learning, using advancing methods, like NeRF, 3DGS, LLM, diffusion model, physical AI, etc. 
 
 interests:
   - Robot perception
-  - Robot localization
-  - Robot mapping
+  - Robot localization and mapping
+  - Robot manipulation
 
 #education:
 #  courses:
@@ -72,12 +72,12 @@ user_groups:
   - Researchers
 ---
 
-I am a Postdoctoral Research Associate of the Department of Engineering at the University of Cambridge advised by Prof. Ioannis Brilakis.
+[Guangming Wang](https://guangmingw.github.io/) is a Postdoctoral Research Associate of the Department of Engineering at the University of Cambridge.
 
-I obtain my Ph.D. degree in the Intelligent Robotics and Machine Vision (IRMV) Lab at the Shanghai Jiao Tong University advised by Prof. Hesheng Wang.
-
-From 2021.09, I also work with Prof. Masayoshi Tomizuka from UC Berkeley. From 2022.06 to 2023.06, I was a visiting researcher in the Computer Vision and Geometry Group (CVG), ETH Zurich, advised by Prof. Marc Pollefeys.
-
-I am an Associate Editor (AE) for RAL, ICRA2024, 2025, and IROS2024, 2025. I was awarded the DAAD AI and Robotics fellow. I obtained twice “National Scholarships for Doctoral Students” (Top 1% in Shanghai Jiao Tong University). My doctoral thesis received the Excellent Doctoral Dissertation Award from Shanghai Jiao Tong University (15 recipients university-wide annually, the only one in Department of Automation)!
+I am an Associate Editor (AE) for IEEE RAL, ICRA2024, 2025, 2026, and IROS2024, 2025. I was awarded the DAAD AI and Robotics fellow. 
 
 Most of my co-mentored undergraduates have gone to UC Berkeley, Princeton, HKU, Columbia, Gatech, UCSD, UCLA, TUM, SJTU and so on. Some of them got full scholarships for direct PhD students. Welcome to contact me to come to the University of Cambridge for a visiting PhD student or remote collaboration!
+
+My recent research interest lies at the intersection of 3D computer vision and robotics. I am particularly interested in robot world model and robot munipulation learning, using advancing methods, like NeRF, 3DGS, LLM, diffusion model, physical AI, etc. 
+
+
