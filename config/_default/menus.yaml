@@ -20,7 +20,7 @@ main:
  #   url: event
  #   weight: 40
   - name: Projects
-    url: Projects
+    url: projects
     weight: 40
   - name: Publications
     url: publication
