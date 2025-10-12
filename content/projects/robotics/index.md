@@ -1,15 +1,22 @@
 ---
-title: "Projects"
-date: 2025-09-17
+title: Robotics
+date: 2025-01-01
+#links:
+#  - type: site
+#    url: https://github.com/pandas-dev/pandas
+tags:
+  #- Hugo
+  #- HugoBlox
+  #- Markdown
+authors:
+  - dr-guangming-wang
+  - dr-yixiong-jing
+  - qizhen-ying
 ---
 
+We are the Robotics Working Group of CV4DT. Click for more!
 
-<!-- <div style="max-width: 1600px; margin: auto;"> -->
-
-Within the Computer Vision for Digital Twins (CV4DT) Research Group, we have various working groups focusing on: [robotics](#robotics), [3D semantic reconstruction](#3d-reconstruction), 3D semantic understanding, domain adaptation, diffusion based generative models, ...
-
----
-
+<!--more-->
 
 # Robotics
 We are a computer vision & robotics working group ([Guangming Wang](/author/dr-guangming-wang/), [Yixiong Jing](/author/dr-yixiong-jing/), [Qizhen Ying](/author/qizhen-ying/)), focusing on:
@@ -62,17 +69,3 @@ We propose SNI-SLAM, a first semantic SLAM system utilizing neural implicit repr
 <img src="/uploads/research_video_robotics/20_arxiv_DDPGwB.gif" alt="RL robot arm demo" width="350">
 
 Deep reinforcement learning (DRL) enables robots to perform some intelligent tasks end-to-end. However, there are still many challenges for long-horizon sparse-reward robotic manipulator tasks. We propose a method of learning long-horizon sparse-reward tasks utilizing one or more existing traditional controllers named base controllers. The experiments demonstrated that the learned  policies steadily outperform base controllers. Compared to previous works of learning from demonstrations, our method improves sample efficiency by orders of magnitude and improves performance. Overall, our method bears the potential of leveraging existing industrial robot manipulation systems to build more flexible and intelligent controllers. The related work was published at top AI journal [IEEE T-NNLS](https://ieeexplore.ieee.org/abstract/document/9882014)
-
-# 3D Semantic Reconstruction
-We are a computer vision & 3D reconstruction working group ([Olaf Wysocki](/author/dr-olaf-wysocki/), [Haibing Wu](/author/haibing-wu/), [Qilin Zhang](/author/qilin-zhang/)), focusing on:
-- 3D semantic object reconstruction 
-- Uncertainty-aware novel view synthesis   
-- Geometric prior-guided reconstruction  
-
-We are always looking for fantastic persons to join us for the following project collaboration!
-
----
-
-
-
-<!-- </div> -->
