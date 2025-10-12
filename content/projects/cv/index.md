@@ -10,6 +10,7 @@ tags:
   #- Markdown
 authors:
   - dr-olaf-wysocki
+  - wanru-yang
   - haibing-wu
   - qilin-zhang
   - daniel-lehmberg
@@ -19,14 +20,11 @@ We are the Computer Vision Working Group of CV4DT. Click for more!
 
 <!--more-->
 
-We are a computer vision & 3D reconstruction working group ([Olaf Wysocki](/author/dr-olaf-wysocki/), [Haibing Wu](/author/haibing-wu/), [Qilin Zhang](/author/qilin-zhang/), [Daniel Lehmberg](/author/daniel-lehmberg/)) focusing on:
-- 3D semantic object reconstruction 
-- Uncertainty-aware novel view synthesis   
-- Geometric prior-guided reconstruction  
+We are a computer vision & 3D reconstruction working group ([Olaf Wysocki](/author/dr-olaf-wysocki/), [Haibing Wu](/author/haibing-wu/), [Qilin Zhang](/author/qilin-zhang/), [Daniel Lehmberg](/author/daniel-lehmberg/), [Wanru Yang](/author/wanru-yang/)) focusing on:
 
 # Research Projects
 
-Our projects are primarily **research-oriented**, aiming for publication in top-tier computer vision and graphics venues such as **CVPR**, **NeurIPS**, and **ICCV**.  
+Our projects are primarily **research-oriented**, aiming for publication in top-tier computer vision venues such as **CVPR**, **ECCV** **NeurIPS**, and similar.  
 Below is an overview of our ongoing and upcoming research directions.
 
 ---
@@ -49,6 +47,15 @@ We revisit **geometric descriptors** for large-scale **3D semantic segmentation*
 Papers are in the making to expand this line of research.
 
 ---
+
+### 🏁 Sim2Real 3D Domain Gap
+
+We still observe large domain gaps between simulated and real-world data, hampering application of simulated data into real-world challenges and many downstream tasks. We believe in the power of *diffusion models* to cater for this gap. Preliminary results, building a framework for running simulations within the unique real-world city twin are here: [*arXiv:2505.17959*](https://arxiv.org/abs/2505.17959)
+
+One paper is under review, while another draft is in preparation. 
+
+---
+
 
 ### 🧭 6DoF Estimation Using Structured 3D Models
 
