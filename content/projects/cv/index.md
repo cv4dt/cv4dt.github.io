@@ -20,7 +20,7 @@ We are the Computer Vision Working Group of CV4DT. Click for more!
 
 <!--more-->
 
-We are a computer vision & 3D reconstruction working group ([Olaf Wysocki](/author/dr-olaf-wysocki/), [Haibing Wu](/author/haibing-wu/), [Qilin Zhang](/author/qilin-zhang/), [Daniel Lehmberg](/author/daniel-lehmberg/), [Wanru Yang](/author/wanru-yang/)) focusing on:
+We are the Computer Vision Working Group of CV4DT: ([Olaf Wysocki](/author/dr-olaf-wysocki/), [Haibing Wu](/author/haibing-wu/), [Qilin Zhang](/author/qilin-zhang/), [Daniel Lehmberg](/author/daniel-lehmberg/), [Wanru Yang](/author/wanru-yang/)).
 
 # Research Projects
 
