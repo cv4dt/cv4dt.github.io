@@ -60,7 +60,8 @@ One paper is under review, while another draft is in preparation.
 ### 🧭 6DoF Estimation Using Structured 3D Models
 
 We explore **structured 3D model representations** for **6-degree-of-freedom (6DoF) pose estimation**, targeting improved robustness and interpretability compared to implicit or point-based methods.  
-This direction builds on related work of [*3D Structured Priors for Pose Estimation* (NeurIPS24)](https://proceedings.neurips.cc/paper_files/paper/2024/file/d78ece6613953f46501b958b7bb4582f-Paper-Conference.pdf).
+This direction builds on related work of [*LoD-Loc: Aerial Visual Localization using LoD 3D
+Map with Neural Wireframe Alignment* (NeurIPS24)](https://proceedings.neurips.cc/paper_files/paper/2024/file/d78ece6613953f46501b958b7bb4582f-Paper-Conference.pdf).
   
 A new iteration of this work is in preparation for upcoming major conference deadlines.
 
