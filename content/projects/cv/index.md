@@ -78,7 +78,7 @@ Preliminary findings are available in [*arXiv:2508.07355*](https://arxiv.org/pdf
 
 In this research direction, we explore quantification of uncertainty in various modalities and downstream tasks: From data acqusition, through segmentation to inference. Our rationale is often grounded in Bayesian modeling of uncertainty (but not limited to!). Previously published papers, e.g., on reconstruction uncertainty
 [*Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks* (CVPR23)](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf). 
-Currently, we are involved in funded project, [NeRF2BIM](https://www.asg.ed.tum.de/en/gds/forschung-research/projects/nerf2bim/) together with Profs Petzold, Holst and Niessner, where we analyze laser scanning uncertainty and its influence on final 3D object reconstruction.
+Currently, we are involved in the funded project, [NeRF2BIM](https://www.asg.ed.tum.de/en/gds/forschung-research/projects/nerf2bim/), together with Profs Petzold, Holst and Niessner, where we analyze laser scanning uncertainty and its influence on final 3D object reconstruction.
 
 
 ---
