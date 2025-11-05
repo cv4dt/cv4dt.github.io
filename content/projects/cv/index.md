@@ -33,7 +33,7 @@ Below is an overview of our ongoing and upcoming research directions.
 
 We aim to reconstruct **structured 3D models** aligned with interpretable geometric and semantic representations.  
 This direction builds upon our prior work:  
-- [*Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images* (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025W/USM3D/papers/Tang_Texture2LoD3_Enabling_LoD3_Building_Reconstruction_With_Panoramic_Images_CVPRW_2025_paper.pdf)  
+- [*Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images* (CVPR25)](https://openaccess.thecvf.com/content/CVPR2025W/USM3D/papers/Tang_Texture2LoD3_Enabling_LoD3_Building_Reconstruction_With_Panoramic_Images_CVPRW_2025_paper.pdf)  
 - [*Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks* (CVPR23)](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf)  
 
 Several project proposals are currently under review to expand this line of research.
@@ -60,7 +60,8 @@ One paper is under review, while another draft is in preparation.
 ### 🧭 6DoF Estimation Using Structured 3D Models
 
 We explore **structured 3D model representations** for **6-degree-of-freedom (6DoF) pose estimation**, targeting improved robustness and interpretability compared to implicit or point-based methods.  
-This direction builds on related work of [*3D Structured Priors for Pose Estimation* (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/d78ece6613953f46501b958b7bb4582f-Paper-Conference.pdf).
+This direction builds on related work of [*LoD-Loc: Aerial Visual Localization using LoD 3D
+Map with Neural Wireframe Alignment* (NeurIPS24)](https://proceedings.neurips.cc/paper_files/paper/2024/file/d78ece6613953f46501b958b7bb4582f-Paper-Conference.pdf).
   
 A new iteration of this work is in preparation for upcoming major conference deadlines.
 
@@ -70,6 +71,15 @@ A new iteration of this work is in preparation for upcoming major conference dea
 
 This project investigates the integration of **geometry-aware priors** into **3D Gaussian Splatting** to enhance reconstruction quality and geometric fidelity.  
 Preliminary findings are available in [*arXiv:2508.07355*](https://arxiv.org/pdf/2508.07355), and ongoing work extends the framework beyond building-specific scenarios toward **general-purpose 3D environments**.
+
+---
+
+### 📈 Quantifying Uncertainty of X
+
+In this research direction, we explore quantification of uncertainty in various modalities and downstream tasks: From data acqusition, through segmentation to inference. Our rationale is often grounded in Bayesian modeling of uncertainty (but not limited to!). Previously published papers, e.g., on reconstruction uncertainty
+[*Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks* (CVPR23)](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf). 
+Currently, we are involved in the funded project, [NeRF2BIM](https://www.asg.ed.tum.de/en/gds/forschung-research/projects/nerf2bim/), together with Profs Petzold, Holst and Niessner, where we analyze laser scanning uncertainty and its influence on final 3D object reconstruction.
+
 
 ---
 
