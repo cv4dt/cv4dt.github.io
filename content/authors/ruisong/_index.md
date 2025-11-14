@@ -14,7 +14,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Cambridge
+  - name: the University of California
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
