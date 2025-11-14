@@ -21,9 +21,13 @@ organizations:
 bio: My research interests is 3D computer vision.
 
 interests:
-  - Monocular 3D Reconstruction
-  - Camera Pose Estimation 
-  - Object Detection
+  - Large-Scale Scene Reconstruction
+  - Visual Odometry
+  - Simultaneous Localization and Mapping
+  - Camera Relocalization
+  - Geospatial AI, Remote Sensing, Photogrammetry, Terrain Modeling, GIS
+
+
 
 #education:
 #  courses:
@@ -72,5 +76,15 @@ user_groups:
   - Visitors
 ---
 
-I am a PhD Candidate supervised by Prof Daniel Cremers, at the Computer Vision Group, the Technical University of Munich.
-Primarily interested in monocular 3D reconstruction, camera pose estimation, and object detection.
+I am a PhD Candidate supervised by Prof Daniel Cremers, at the Computer Vision Group, the Technical University of Munich ([more here](https://cvg.cit.tum.de/members/dhou)). My current research focuses on improving monocular 3D reconstruction and localization accuracy and efficiency. Together with the CV4DT members, we are working on robust and lightweight aerial and terrestrial vehicle localization methods!
+
+
+
+Before joining the PhD program, I worked as a Machine Learning Engineer at Knowlix GmbH. There, I researched OCR modeling and LLMs such as GPTs and Llama. I also designed data and machine learning pipelines and applied machine learning techniques to solve real-world problems.
+
+I completed my Master's studies in Electrical Engineering and Information Technology at TUM. My focus was on Automation, Robotics, and AI. I spent a semester abroad at NTU Singapore, where I studied Deep Learning for Natural Language Processing and Genetic Algorithms.
+
+For my Master's thesis, I worked at BMW Group AG on AR glasses and head 6DoF pose estimation based on 3D multi-view geometry reconstruction and deep learning. My research involved implementing a system that could estimate the head and AR glasses pose with high accuracy (Project). It resulted in a publication titled "Comparing Head and AR Glasses Pose Estimation."
+
+I also completed my Bachelor of Science in Electrical Engineering and Information Technology at TUM, with a focus on Signal Processing. During my Bachelor's thesis, I worked on generative modeling using Capsule Generative Adversarial Networks at the Chair of Robotics, Artificial Intelligence, and Real-time Systems at TUM. 
+
