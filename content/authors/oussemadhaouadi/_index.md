@@ -84,7 +84,7 @@ Before joining the PhD program, I worked as a Machine Learning Engineer at Knowl
 
 I completed my Master's studies in Electrical Engineering and Information Technology at TUM. My focus was on Automation, Robotics, and AI. I spent a semester abroad at NTU Singapore, where I studied Deep Learning for Natural Language Processing and Genetic Algorithms.
 
-For my Master's thesis, I worked at BMW Group AG on AR glasses and head 6DoF pose estimation based on 3D multi-view geometry reconstruction and deep learning. My research involved implementing a system that could estimate the head and AR glasses pose with high accuracy (Project). It resulted in a publication titled "Comparing Head and AR Glasses Pose Estimation."
+For my Master's thesis, I worked at BMW Group AG on AR glasses and head 6DoF pose estimation based on 3D multi-view geometry reconstruction and deep learning. My research involved implementing a system that could estimate the head and AR glasses pose with high accuracy. It resulted in a publication titled "Comparing Head and AR Glasses Pose Estimation."
 
 I also completed my Bachelor of Science in Electrical Engineering and Information Technology at TUM, with a focus on Signal Processing. During my Bachelor's thesis, I worked on generative modeling using Capsule Generative Adversarial Networks at the Chair of Robotics, Artificial Intelligence, and Real-time Systems at TUM. 
 
