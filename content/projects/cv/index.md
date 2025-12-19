@@ -20,11 +20,11 @@ We are the Computer Vision Working Group of CV4DT. Click for more!
 
 <!--more-->
 
-We are the Computer Vision Working Group of CV4DT: ([Olaf Wysocki](/author/dr-olaf-wysocki/), [Haibing Wu](/author/haibing-wu/), [Qilin Zhang](/author/qilin-zhang/), [Daniel Lehmberg](/author/daniel-lehmberg/), [Wanru Yang](/author/wanru-yang/)).
+We are the Computer Vision Working Group of CV4DT: ([Olaf Wysocki](/author/dr-olaf-wysocki/), [Haibing Wu](/author/haibing-wu/), [Qilin Zhang](/author/qilin-zhang/), [Daniel Lehmberg](/author/daniel-lehmberg/), [Wanru Yang](/author/wanru-yang/)), but not limited to!
 
 # Research Projects
 
-Our projects are primarily **research-oriented**, aiming for publication in top-tier computer vision venues such as **CVPR**, **ECCV** **NeurIPS**, and similar.  
+Our projects are primarily **research-oriented**, aiming for publication in top-tier computer vision venues such as **CVPR**, **ECCV**, **NeurIPS**, and similar.  
 Below is an overview of our ongoing and upcoming research directions.
 
 ---
