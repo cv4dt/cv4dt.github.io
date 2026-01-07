@@ -14,46 +14,37 @@ sections:
       text: |
         <br>
         
-        The **Computer Vision for Digital Twins (CV4DT)** is a research group based at the [University of Cambridge](https://www.cam.ac.uk/) and led by [Olaf Wysocki](https://olafwysocki.github.io/). The CV4DT centres on developing methods and datasets for pushing the boundaries of 3D computer vision for accurate transfer of reality into the digital world to enable simulation before any action is taken.
-  
- #  - block: collection
- #    content:
- #      title: Latest News
- #      subtitle:
- #      text:
- #      count: 5
- #      filters:
- #        author: ''
- #        category: ''
- #        exclude_featured: false
- #        publication_type: ''
- #        tag: ''
- #      offset: 0
- #      order: desc
- #      page_type: post
- #    design:
- #      view: card
- #      columns: '1'
-#
- # - block: markdown
- #   content:
- #     title:
- #     subtitle: ''
- #     text:
- #   design:
- #     columns: '1'
- #     background:
- #       image: 
- #         filename: coders.jpg
- #         filters:
- #           brightness: 1
- #         parallax: false
- #         position: center
- #         size: cover
- #         text_color_light: true
- #     spacing:
- #       padding: ['20px', '0', '20px', '0']
- #     css_class: fullscreen
+        The **Computer Vision for Digital Twins (CV4DT)** is a research group based at the [University of Cambridge](https://www.cam.ac.uk/) and led by [Olaf Wysocki](https://olafwysocki.github.io/). The CV4DT centres on developing methods and datasets for pushing the boundaries of 3D computer vision for accurate transfer of reality into the digital world to enable simulation before any action is taken. 
+  - block: markdown
+    content:
+#      title: Latest News
+      text: |
+        <div style="column-count: 2; column-gap: 2rem;">
+          <ul>
+            <li><b>2026-01</b> — We'll be co-organsing 2x <a href="https://cvpr.thecvf.com/" target="_blank">CVPR 2026</a> workshops: <a href="https://pbvs-workshop.github.io/" target="_blank">PBVS</a> and <a href="https://drivex-workshop.github.io/cvpr2026/" target="_blank">DriveX</a>!</li>
+            <li><b>2025-12</b> — 3x 3D Computer Vision and Robotics projects together with TUM (<a href="https://www.linkedin.com/posts/olaf-wysocki_tum-3dcomputervision-robotics-activity-7404455847042428929-F6wa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">more</a>)</li>
+            <li><b>2025-11</b> — Brian gives a keynote about multimodality at <a href="https://www.linkedin.com/posts/brian-sheil-34940a28_super-excited-to-be-on-my-way-to-sheffield-activity-7399712763801018368-HNNN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">BMVC 2025</a>!.</li>
+            <li><b>2025-10</b> — Our <a href="https://lnkd.in/dvrHQXaN" target="_blank">TrueCity</a> paper goes to <a href="https://3dvconf.github.io/2026/" target="_blank">3DV 2026</a>!</li>  
+          </ul>
+        </div>
+
+        <details style="margin-top: 0.5rem;">
+          <summary><b>Older news</b></summary>
+          <div style="column-count: 2; column-gap: 2rem; margin-top: 0.4rem;">
+            <ul>
+              <li><b>2025-08</b> — The <a href="https://www.linkedin.com/posts/olaf-wysocki_cv4dt-cv4dt-computer-activity-7358059156118892544-IXFe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">CV4DT</a> is born!</li>
+            </ul>
+          </div>
+        </details>
+    design:
+      columns: '1'
+      background:
+        color: '#ffffff'
+        text_color_light: false
+      spacing:
+        padding: ['0.5rem', '0', '0.1rem', '0']
+
+
 
   - block: slider
     content:
