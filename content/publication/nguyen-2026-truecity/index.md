@@ -18,4 +18,7 @@ links:
   url: https://arxiv.org/abs/2511.07007
 - name: PDF
   url: https://arxiv.org/abs/2511.07007
+- name: Project page
+  url: https://tum-gis.github.io/TrueCity/
+
 ---
