@@ -94,6 +94,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: Digital Twins for World Models
+        content: '3D-vision-informed world models for robotics'
+        align: left
+        background:
+          image:
+            filename: actionReasoning.gif
+            filters:
+              brightness: 0.7 
+          position: center
+          color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
