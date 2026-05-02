@@ -20,17 +20,17 @@ sections:
 #      title: Latest News
       text: |
         <div style="column-count: 2; column-gap: 2rem;">
-          <ul><li><b>2025-10</b> — Our <a href="https://www.linkedin.com/posts/guangming-wang_icra2026-robotics-embodiedai-ugcPost-7432756968639025152-otp5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">ActionReasoning</a> paper goes to <a href="https://3dvconf.github.io/2026/" target="_blank">ICRA 2026</a>!</li> 
+          <ul><ul><li><b>2026-05</b> — Our collaborative <a href="https://arxiv.org/pdf/2604.26238" target="_blank">EnerGS</a> paper goes to <a href="https://icml.cc/" target="_blank">ICML 2026</a>!</li> <li><b>2025-10</b> — Our <a href="https://www.linkedin.com/posts/guangming-wang_icra2026-robotics-embodiedai-ugcPost-7432756968639025152-otp5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">ActionReasoning</a> paper goes to <a href="https://3dvconf.github.io/2026/" target="_blank">ICRA 2026</a>!</li> 
             <li><b>2026-01</b> — We'll be co-organsing 2x <a href="https://cvpr.thecvf.com/" target="_blank">CVPR 2026</a> workshops: <a href="https://pbvs-workshop.github.io/" target="_blank">PBVS</a> and <a href="https://drivex-workshop.github.io/cvpr2026/" target="_blank">DriveX</a>!</li>
             <li><b>2025-12</b> — 3x 3D Computer Vision and Robotics projects together with TUM (<a href="https://www.linkedin.com/posts/olaf-wysocki_tum-3dcomputervision-robotics-activity-7404455847042428929-F6wa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">more</a>)</li>
-            <li><b>2025-11</b> — Brian gives a keynote about multimodality at <a href="https://www.linkedin.com/posts/brian-sheil-34940a28_super-excited-to-be-on-my-way-to-sheffield-activity-7399712763801018368-HNNN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">BMVC 2025</a>!</li> 
+             
           </ul>
         </div>
 
         <details style="margin-top: 0.5rem;">
           <summary><b>Older news</b></summary>
           <div style="column-count: 2; column-gap: 2rem; margin-top: 0.4rem;">
-            <ul>
+            <ul> <li><b>2025-11</b> — Brian gives a keynote about multimodality at <a href="https://www.linkedin.com/posts/brian-sheil-34940a28_super-excited-to-be-on-my-way-to-sheffield-activity-7399712763801018368-HNNN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">BMVC 2025</a>!</li>
             <li><b>2025-10</b> — Our <a href="https://lnkd.in/dvrHQXaN" target="_blank">TrueCity</a> paper goes to <a href="https://3dvconf.github.io/2026/" target="_blank">3DV 2026</a>!</li> 
               <li><b>2025-08</b> — The <a href="https://www.linkedin.com/posts/olaf-wysocki_cv4dt-cv4dt-computer-activity-7358059156118892544-IXFe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">CV4DT</a> is born!</li>
             </ul>
