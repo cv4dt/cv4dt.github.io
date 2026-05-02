@@ -10,7 +10,7 @@ sections:
       title: |
         CV4DT
       image:
-        filename: home.png
+        filename: groupcv4dt.jpg
       text: |
         <br>
         
