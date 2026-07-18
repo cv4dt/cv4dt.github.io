@@ -15,18 +15,41 @@ sections:
         <br>
         
         The **Computer Vision for Digital Twins (CV4DT)** is a research group based at the [University of Cambridge](https://www.cam.ac.uk/) and led by [Olaf Wysocki](https://olafwysocki.github.io/). The CV4DT centres on developing methods and datasets for pushing the boundaries of 3D computer vision for accurate transfer of reality into the digital world to enable simulation before any action is taken. 
-  - block: markdown
-    content:
-#      title: Latest News
-      text: |
-        <div style="column-count: 2; column-gap: 2rem;">
-          <ul><ul><li><b>2026-05</b> — Our collaborative <a href="https://arxiv.org/pdf/2604.26238" target="_blank">EnerGS</a> paper goes to <a href="https://icml.cc/" target="_blank">ICML 2026</a>!</li> <li><b>2025-10</b> — Our <a href="https://www.linkedin.com/posts/guangming-wang_icra2026-robotics-embodiedai-ugcPost-7432756968639025152-otp5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">ActionReasoning</a> paper goes to <a href="https://3dvconf.github.io/2026/" target="_blank">ICRA 2026</a>!</li> 
-            <li><b>2026-01</b> — We'll be co-organsing 2x <a href="https://cvpr.thecvf.com/" target="_blank">CVPR 2026</a> workshops: <a href="https://pbvs-workshop.github.io/" target="_blank">PBVS</a> and <a href="https://drivex-workshop.github.io/cvpr2026/" target="_blank">DriveX</a>!</li>
-            <li><b>2025-12</b> — 3x 3D Computer Vision and Robotics projects together with TUM (<a href="https://www.linkedin.com/posts/olaf-wysocki_tum-3dcomputervision-robotics-activity-7404455847042428929-F6wa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">more</a>)</li>
-             
-          </ul>
-        </div>
+- block: markdown
+  content:
+    text: |
+      <div style="column-count:2; column-gap:2rem;">
+        <ul>
+          <li>
+            <b>2026-05</b> — Our collaborative
+            <a href="https://arxiv.org/pdf/2604.26238" target="_blank">EnerGS</a>
+            paper has been accepted to
+            <a href="https://icml.cc/" target="_blank">ICML 2026</a>!
+          </li>
 
+          <li>
+            <b>2026-01</b> — We will be co-organising two
+            <a href="https://cvpr.thecvf.com/" target="_blank">CVPR 2026</a>
+            workshops:
+            <a href="https://pbvs-workshop.github.io/" target="_blank">PBVS</a>
+            and
+            <a href="https://drivex-workshop.github.io/cvpr2026/" target="_blank">DriveX</a>.
+          </li>
+
+          <li>
+            <b>2025-12</b> — Three 3D Computer Vision and Robotics projects
+            together with TUM
+            (<a href="https://www.linkedin.com/posts/olaf-wysocki_tum-3dcomputervision-robotics-activity-7404455847042428929-F6wa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">more</a>).
+          </li>
+
+          <li>
+            <b>2025-10</b> — Our
+            <a href="https://www.linkedin.com/posts/guangming-wang_icra2026-robotics-embodiedai-ugcPost-7432756968639025152-otp5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOtQZsB2yD5oTgXmH7yFLu2VpwKVxPJ19Q" target="_blank">ActionReasoning</a>
+            paper has been accepted to
+            <a href="https://3dvconf.github.io/2026/" target="_blank">ICRA 2026</a>!
+          </li>
+        </ul>
+      </div>
         <details style="margin-top: 0.5rem;">
           <summary><b>Older news</b></summary>
           <div style="column-count: 2; column-gap: 2rem; margin-top: 0.4rem;">
