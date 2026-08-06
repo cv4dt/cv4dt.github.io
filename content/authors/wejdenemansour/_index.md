@@ -14,7 +14,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Theoretical and Applied Mechanics, Peking University.
+  - name: Technical University of Munich
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
