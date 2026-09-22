@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oussema Dhaouadi
+title: Markus Gross
 
 # Full Name (for SEO)
 first_name: Markus
@@ -78,6 +78,6 @@ Hi! I'm Markus, a second-year Ph.D. student at the Computer Vision Group of the 
 
 My research interests include computer vision and machine learning, with their applications in mobile robotics, specifically autonomous flying and driving. I am also passionate about planetary robotics and spaceflight in general!
 
-With the CV4DT I work on pushing forward the boundaries of UAV benchmarks for solving aerial visual understanding!
+With the CV4DT I work on pushing forward the boundaries of UAV benchmarks for solving aerial visual understanding! More on [my website](https://markus-42.github.io/)!
 
 
