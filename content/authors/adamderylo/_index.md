@@ -50,7 +50,7 @@ social:
   #  link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://github.com/aderylo
+    link: https://aderylo.com/
   - icon: github
     icon_pack: fab
     link: https://linkedin.com/in/aderylo
