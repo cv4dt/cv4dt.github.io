@@ -51,7 +51,7 @@ social:
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://github.com/aderylo
-  - icon: github
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/samuel-grace-b03a97256/?isSelfProfile=false
 # Link to a PDF of your resume/CV from the About widget.
