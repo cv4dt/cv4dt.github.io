@@ -51,7 +51,7 @@ social:
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://github.com/aderylo
-  - icon: github
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/samuel-grace-b03a97256/?isSelfProfile=false
 # Link to a PDF of your resume/CV from the About widget.
@@ -72,6 +72,4 @@ user_groups:
   - Researchers
 ---
 
-I am a MRes/PhD Candidate in a CDT project with National Highways at the Department of Engineering at the University of Cambridge.
-MEng in Engineering Science at the University of Oxford.
-Interested in 3D computer vision and SLAM topics!
+Samuel Grace is an MRes/PhD candidate within the FIBE3 CDT at the University of Cambridge (Churchill College). Working in partnership with Network Rail, his research focuses on AI-driven methods for autonomous tunnel inspection using robotics. He previously earned his MEng in Engineering Science with First Class Honours from the University of Oxford (Oriel College), where he specialised in Information Engineering, Robotics and Computer Vision, and was awarded the Maurice Lubbock Prize and two Gibbs Prizes.
